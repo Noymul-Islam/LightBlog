@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+.padding-24 {
+    padding-left : 24px;
+    padding-right : 24px;
+    padding-top : 24px;
+    padding-bottom : 24px;
+}
